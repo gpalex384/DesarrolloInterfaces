@@ -1,0 +1,12 @@
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\obj\Debug\MatchingGame.vbprojAssemblyReference.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\obj\Debug\MatchingGame.Resources.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\obj\Debug\MatchingGame.vbproj.GenerateResource.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\obj\Debug\MatchingGame.vbproj.CoreCompileInputs.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\bin\Debug\MatchingGame.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\obj\Debug\MatchingGame.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb

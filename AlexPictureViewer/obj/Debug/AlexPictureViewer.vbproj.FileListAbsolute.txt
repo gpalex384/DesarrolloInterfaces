@@ -1,0 +1,12 @@
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\bin\Debug\AlexPictureViewer.exe.config
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\bin\Debug\AlexPictureViewer.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\bin\Debug\AlexPictureViewer.pdb
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\bin\Debug\AlexPictureViewer.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\obj\Debug\AlexPictureViewer.vbprojAssemblyReference.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\obj\Debug\AlexPictureViewer.Form1.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\obj\Debug\AlexPictureViewer.Resources.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\obj\Debug\AlexPictureViewer.vbproj.GenerateResource.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\obj\Debug\AlexPictureViewer.vbproj.CoreCompileInputs.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\obj\Debug\AlexPictureViewer.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\obj\Debug\AlexPictureViewer.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexPictureViewer\obj\Debug\AlexPictureViewer.pdb

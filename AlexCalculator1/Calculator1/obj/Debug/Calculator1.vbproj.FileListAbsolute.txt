@@ -1,0 +1,12 @@
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\obj\Debug\Calculator1.vbprojAssemblyReference.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\obj\Debug\Calculator1.Resources.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\obj\Debug\Calculator1.vbproj.GenerateResource.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\obj\Debug\Calculator1.vbproj.CoreCompileInputs.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\bin\Debug\Calculator1.exe.config
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\bin\Debug\Calculator1.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\bin\Debug\Calculator1.pdb
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\bin\Debug\Calculator1.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\obj\Debug\Calculator1.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\obj\Debug\Calculator1.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator1\Calculator1\obj\Debug\Calculator1.pdb

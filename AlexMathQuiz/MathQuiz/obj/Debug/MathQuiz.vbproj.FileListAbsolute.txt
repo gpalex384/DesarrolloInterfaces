@@ -1,0 +1,12 @@
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\bin\Debug\MathQuiz.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\obj\Debug\MathQuiz.vbprojAssemblyReference.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\obj\Debug\MathQuiz.Resources.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\obj\Debug\MathQuiz.vbproj.GenerateResource.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\obj\Debug\MathQuiz.vbproj.CoreCompileInputs.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\obj\Debug\MathQuiz.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexMathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb

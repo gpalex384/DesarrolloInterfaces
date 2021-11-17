@@ -1,0 +1,13 @@
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\bin\Debug\Calculator_v1_vb.exe.config
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\bin\Debug\Calculator_v1_vb.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\bin\Debug\Calculator_v1_vb.pdb
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\bin\Debug\Calculator_v1_vb.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\obj\Debug\Calculator_v5_vb.vbprojAssemblyReference.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\obj\Debug\Calculator_v1_vb.calculatorForm.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\obj\Debug\Calculator_v1_vb.HelpWindow.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\obj\Debug\Calculator_v1_vb.Resources.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\obj\Debug\Calculator_v5_vb.vbproj.GenerateResource.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\obj\Debug\Calculator_v5_vb.vbproj.CoreCompileInputs.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\obj\Debug\Calculator_v1_vb.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\obj\Debug\Calculator_v1_vb.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\SEGUNDO INTENTO\AlexCalculator4\obj\Debug\Calculator_v1_vb.pdb

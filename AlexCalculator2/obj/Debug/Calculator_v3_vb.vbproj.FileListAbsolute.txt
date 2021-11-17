@@ -1,0 +1,12 @@
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\bin\Debug\Calculator_v1_vb.exe.config
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\bin\Debug\Calculator_v1_vb.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\bin\Debug\Calculator_v1_vb.pdb
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\bin\Debug\Calculator_v1_vb.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\obj\Debug\Calculator_v3_vb.vbprojAssemblyReference.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\obj\Debug\Calculator_v1_vb.Form1.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\obj\Debug\Calculator_v1_vb.Resources.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\obj\Debug\Calculator_v3_vb.vbproj.GenerateResource.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\obj\Debug\Calculator_v3_vb.vbproj.CoreCompileInputs.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\obj\Debug\Calculator_v1_vb.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\obj\Debug\Calculator_v1_vb.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Calculator_v3_vb\obj\Debug\Calculator_v1_vb.pdb

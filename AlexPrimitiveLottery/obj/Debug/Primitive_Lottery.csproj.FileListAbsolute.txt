@@ -1,0 +1,22 @@
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Primitive_Lottery\bin\Debug\Primitive_Lottery.exe.config
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Primitive_Lottery\bin\Debug\Primitive_Lottery.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Primitive_Lottery\bin\Debug\Primitive_Lottery.pdb
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Primitive_Lottery\obj\Debug\Primitive_Lottery.csprojAssemblyReference.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Primitive_Lottery\obj\Debug\Primitive_Lottery.Form1.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Primitive_Lottery\obj\Debug\Primitive_Lottery.Properties.Resources.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Primitive_Lottery\obj\Debug\Primitive_Lottery.csproj.GenerateResource.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Primitive_Lottery\obj\Debug\Primitive_Lottery.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Primitive_Lottery\obj\Debug\Primitive_Lottery.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Primitive_Lottery\obj\Debug\Primitive_Lottery.pdb
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Primitive_Lottery\obj\Debug\Primitive_Lottery.Form2.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Primitive_Lottery\bin\Debug\Primitive_Lottery.exe.config
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Primitive_Lottery\bin\Debug\Primitive_Lottery.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Primitive_Lottery\bin\Debug\Primitive_Lottery.pdb
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Primitive_Lottery\obj\Debug\Primitive_Lottery.csprojAssemblyReference.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Primitive_Lottery\obj\Debug\Primitive_Lottery.Form1.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Primitive_Lottery\obj\Debug\Primitive_Lottery.Form2.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Primitive_Lottery\obj\Debug\Primitive_Lottery.Properties.Resources.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Primitive_Lottery\obj\Debug\Primitive_Lottery.csproj.GenerateResource.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Primitive_Lottery\obj\Debug\Primitive_Lottery.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Primitive_Lottery\obj\Debug\Primitive_Lottery.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\PRIMER INTENTO\Trim1\Primitive_Lottery\obj\Debug\Primitive_Lottery.pdb

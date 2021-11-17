@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MatchingGame
+</name>
+</assembly>
+<members>
+<member name="T:MatchingGame.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MatchingGame.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MatchingGame.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:MatchingGame.Form1.makeBordersToLabels">
+ <summary>
+ Paint borders to each label
+ </summary>
+</member>
+<member name="M:MatchingGame.Form1.AssignIconsToSquares">
+ <summary>
+ Assign each icon from the list of icons to a random square
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:MatchingGame.Form1.label_Click(System.Object,System.EventArgs)">
+ <summary>
+ Every label's Click event is handled by this event handler
+ </summary>
+ <param name="sender">The label that was clicked</param>
+ <param name="e"></param>
+</member>
+<member name="M:MatchingGame.Form1.timer1_Tick">
+ <summary>
+ This timer is started when the player clicks 
+ two icons that don't match,
+ so it counts three quarters of a second 
+ and then turns itself off and hides both icons
+ </summary>
+</member>
+<member name="M:MatchingGame.Form1.CheckForWinner">
+ <summary>
+ Check every icon to see if it is matched, by 
+ comparing its foreground color to its background color. 
+ If all of the icons are matched, the player wins
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,13 @@
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\bin\Debug\Tic-Tac-Toe_v2.exe.config
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\bin\Debug\Tic-Tac-Toe_v2.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\bin\Debug\Tic-Tac-Toe_v2.pdb
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\bin\Debug\Tic-Tac-Toe_v2.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\obj\Debug\Tic-Tac-Toe_v3.vbprojAssemblyReference.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\obj\Debug\Tic_Tac_Toe_v2.Form1.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\obj\Debug\Tic_Tac_Toe_v2.Form2.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\obj\Debug\Tic_Tac_Toe_v2.Resources.resources
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\obj\Debug\Tic-Tac-Toe_v3.vbproj.GenerateResource.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\obj\Debug\Tic-Tac-Toe_v3.vbproj.CoreCompileInputs.cache
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\obj\Debug\Tic-Tac-Toe_v2.exe
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\obj\Debug\Tic-Tac-Toe_v2.xml
+D:\Usuarios\Alejandro\Documents\ZZ_DAM_Proyectos\VisualStudio\Tic-Tac-Toe_v3\obj\Debug\Tic-Tac-Toe_v2.pdb

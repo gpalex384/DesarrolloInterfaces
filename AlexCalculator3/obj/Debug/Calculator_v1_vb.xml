@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Calculator_v1_vb
+</name>
+</assembly>
+<members>
+<member name="T:Calculator_v1_vb.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Calculator_v1_vb.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Calculator_v1_vb.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Calculator_v1_vb.Form1.ButtonOn_Click(System.Object,System.EventArgs)">
+ <summary>
+ Function to set ON the calculator.
+ The calculator will not work until this button is pressed (isOn = true)
+ It also clears every stored data regarding operands and operators (clear all) [C].
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.Form1.ButtonClearError_Click(System.Object,System.EventArgs)">
+ <summary>
+ When 'CE' button is clicked, the displayed value is set to 0 and the subtotal is resetted.
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.Form1.Number_MouseClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ If a number (or the dot) is clicked, 
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.Form1.ButtonSum_Click(System.Object,System.EventArgs)">
+ <summary>
+ Function when the button 'plus' is clicked
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.Form1.ButtonDifference_Click(System.Object,System.EventArgs)">
+ <summary>
+ Function when the button 'minus' is clicked
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.Form1.ButtonProduct_Click(System.Object,System.EventArgs)">
+ <summary>
+ Function when the button 'product' is clicked
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.Form1.ButtonQuotient_Click(System.Object,System.EventArgs)">
+ <summary>
+ Function when the button 'quotient' is clicked
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.Form1.ButtonSolve_Click(System.Object,System.EventArgs)">
+ <summary>
+ When button 'solve' is clicked, the arrays that contain the series of operands and operators are looped in order to make those operations consecutively
+ and saving and adding the result of each loop in 'subtotal' global variable.
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.Form1.ButtonPlusMinus_Click(System.Object,System.EventArgs)">
+ <summary>
+ (For calculator III) This button makes negative a positive number, and vice-versa)
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.Form1.ButtonInverse_Click(System.Object,System.EventArgs)">
+ <summary>
+ This button makes the operation 1/x
+ </summary>
+</member>
+</members>
+</doc>

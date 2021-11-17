@@ -1,0 +1,138 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Calculator_v1_vb
+</name>
+</assembly>
+<members>
+<member name="T:Calculator_v1_vb.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Calculator_v1_vb.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Calculator_v1_vb.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.ButtonOn_Click(System.Object,System.EventArgs)">
+ <summary>
+ Function to set ON the calculator.
+ The calculator will not work until this button is pressed (isOn = true)
+ It also clears every stored data regarding operands and operators (clear all) [C].
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.ButtonClearError_Click(System.Object,System.EventArgs)">
+ <summary>
+ When 'CE' button is clicked, the displayed value is set to 0 and the subtotal is resetted.
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.Number_MouseClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ If a number (or the dot) is clicked, 
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.ButtonSum_Click(System.Object,System.EventArgs)">
+ <summary>
+ Function when the button 'plus' is clicked
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.ButtonDifference_Click(System.Object,System.EventArgs)">
+ <summary>
+ Function when the button 'minus' is clicked
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.ButtonProduct_Click(System.Object,System.EventArgs)">
+ <summary>
+ Function when the button 'product' is clicked
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.ButtonQuotient_Click(System.Object,System.EventArgs)">
+ <summary>
+ Function when the button 'quotient' is clicked
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.ButtonSolve_Click(System.Object,System.EventArgs)">
+ <summary>
+ When button 'solve' is clicked, the arrays that contain the series of operands and operators are looped in order to make those operations consecutively
+ and saving and adding the result of each loop in 'subtotal' global variable.
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.ButtonPlusMinus_Click(System.Object,System.EventArgs)">
+ <summary>
+ (For calculator III) This button makes negative a positive number, and vice-versa)
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.ButtonInverse_Click(System.Object,System.EventArgs)">
+ <summary>
+ This button makes the operation 1/x
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.ButtonLastDigit_Click(System.Object,System.EventArgs)">
+ <summary>
+ This function deletes the last introduced character
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.StripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Menu to change to standard 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.moveButtons(System.Int32)">
+ <summary>
+ This function moves buttons to the right or to the left, to make other buttons fit into the form
+ </summary>
+ <param name="v"></param>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.insertScientificButtons">
+ <summary>
+ This function inserts scientific buttons in runtime
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.deleteScientificButtons">
+ <summary>
+ This function clears scientific buttons in runtime
+ </summary>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.HandleScientificButtonClick(System.Object,System.EventArgs)">
+ <summary>
+ This function handles with any scientific button the user has just clicked
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.factorial(System.Object,System.EventArgs)">
+ <summary>
+ It calculates the factorial of the current subtotal and resets the operands and operators
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.exponente(System.Int32,System.Object,System.EventArgs)">
+ <summary>
+ It calculates any exponent, square, cube or customized. 
+ </summary>
+ <param name="v"></param>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Calculator_v1_vb.calculatorForm.HelpToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ This function opens a new form, called HelpWindow, where some help information is showed.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
